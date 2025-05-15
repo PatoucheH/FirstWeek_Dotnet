@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\code\\becode\\DotNet\\firstWeeks\\16-csharp-generics-PatoucheH\\Generics\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{01D23EC6-E4AB-4DAF-BB24-DD517C34D5B3}|Generics.csproj|c:\\code\\becode\\dotnet\\firstweeks\\16-csharp-generics-patoucheh\\generics\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01D23EC6-E4AB-4DAF-BB24-DD517C34D5B3}|Generics.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01D23EC6-E4AB-4DAF-BB24-DD517C34D5B3}|Generics.csproj|c:\\code\\becode\\dotnet\\firstweeks\\16-csharp-generics-patoucheh\\generics\\mylist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01D23EC6-E4AB-4DAF-BB24-DD517C34D5B3}|Generics.csproj|solutionrelative:mylist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MyList.cs",
+              "DocumentMoniker": "C:\\code\\becode\\DotNet\\firstWeeks\\16-csharp-generics-PatoucheH\\Generics\\MyList.cs",
+              "RelativeDocumentMoniker": "MyList.cs",
+              "ToolTip": "C:\\code\\becode\\DotNet\\firstWeeks\\16-csharp-generics-PatoucheH\\Generics\\MyList.cs",
+              "RelativeToolTip": "MyList.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwA4AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T09:40:42.659Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\code\\becode\\DotNet\\firstWeeks\\16-csharp-generics-PatoucheH\\Generics\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\code\\becode\\DotNet\\firstWeeks\\16-csharp-generics-PatoucheH\\Generics\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAQwCEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T09:28:17.01Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

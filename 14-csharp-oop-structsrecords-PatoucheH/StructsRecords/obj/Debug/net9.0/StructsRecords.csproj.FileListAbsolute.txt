@@ -1,0 +1,15 @@
+C:\code\becode\DotNet\firstWeeks\14-csharp-oop-structsrecords-PatoucheH\StructsRecords\bin\Debug\net9.0\StructsRecords.exe
+C:\code\becode\DotNet\firstWeeks\14-csharp-oop-structsrecords-PatoucheH\StructsRecords\bin\Debug\net9.0\StructsRecords.deps.json
+C:\code\becode\DotNet\firstWeeks\14-csharp-oop-structsrecords-PatoucheH\StructsRecords\bin\Debug\net9.0\StructsRecords.runtimeconfig.json
+C:\code\becode\DotNet\firstWeeks\14-csharp-oop-structsrecords-PatoucheH\StructsRecords\bin\Debug\net9.0\StructsRecords.dll
+C:\code\becode\DotNet\firstWeeks\14-csharp-oop-structsrecords-PatoucheH\StructsRecords\bin\Debug\net9.0\StructsRecords.pdb
+C:\code\becode\DotNet\firstWeeks\14-csharp-oop-structsrecords-PatoucheH\StructsRecords\obj\Debug\net9.0\StructsRecords.GeneratedMSBuildEditorConfig.editorconfig
+C:\code\becode\DotNet\firstWeeks\14-csharp-oop-structsrecords-PatoucheH\StructsRecords\obj\Debug\net9.0\StructsRecords.AssemblyInfoInputs.cache
+C:\code\becode\DotNet\firstWeeks\14-csharp-oop-structsrecords-PatoucheH\StructsRecords\obj\Debug\net9.0\StructsRecords.AssemblyInfo.cs
+C:\code\becode\DotNet\firstWeeks\14-csharp-oop-structsrecords-PatoucheH\StructsRecords\obj\Debug\net9.0\StructsRecords.csproj.CoreCompileInputs.cache
+C:\code\becode\DotNet\firstWeeks\14-csharp-oop-structsrecords-PatoucheH\StructsRecords\obj\Debug\net9.0\StructsRecords.sourcelink.json
+C:\code\becode\DotNet\firstWeeks\14-csharp-oop-structsrecords-PatoucheH\StructsRecords\obj\Debug\net9.0\StructsRecords.dll
+C:\code\becode\DotNet\firstWeeks\14-csharp-oop-structsrecords-PatoucheH\StructsRecords\obj\Debug\net9.0\refint\StructsRecords.dll
+C:\code\becode\DotNet\firstWeeks\14-csharp-oop-structsrecords-PatoucheH\StructsRecords\obj\Debug\net9.0\StructsRecords.pdb
+C:\code\becode\DotNet\firstWeeks\14-csharp-oop-structsrecords-PatoucheH\StructsRecords\obj\Debug\net9.0\StructsRecords.genruntimeconfig.cache
+C:\code\becode\DotNet\firstWeeks\14-csharp-oop-structsrecords-PatoucheH\StructsRecords\obj\Debug\net9.0\ref\StructsRecords.dll

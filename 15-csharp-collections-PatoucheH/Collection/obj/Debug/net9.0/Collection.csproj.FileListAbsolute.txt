@@ -1,0 +1,15 @@
+C:\code\becode\DotNet\firstWeeks\15-csharp-collections-PatoucheH\Collection\bin\Debug\net9.0\Collection.exe
+C:\code\becode\DotNet\firstWeeks\15-csharp-collections-PatoucheH\Collection\bin\Debug\net9.0\Collection.deps.json
+C:\code\becode\DotNet\firstWeeks\15-csharp-collections-PatoucheH\Collection\bin\Debug\net9.0\Collection.runtimeconfig.json
+C:\code\becode\DotNet\firstWeeks\15-csharp-collections-PatoucheH\Collection\bin\Debug\net9.0\Collection.dll
+C:\code\becode\DotNet\firstWeeks\15-csharp-collections-PatoucheH\Collection\bin\Debug\net9.0\Collection.pdb
+C:\code\becode\DotNet\firstWeeks\15-csharp-collections-PatoucheH\Collection\obj\Debug\net9.0\Collection.GeneratedMSBuildEditorConfig.editorconfig
+C:\code\becode\DotNet\firstWeeks\15-csharp-collections-PatoucheH\Collection\obj\Debug\net9.0\Collection.AssemblyInfoInputs.cache
+C:\code\becode\DotNet\firstWeeks\15-csharp-collections-PatoucheH\Collection\obj\Debug\net9.0\Collection.AssemblyInfo.cs
+C:\code\becode\DotNet\firstWeeks\15-csharp-collections-PatoucheH\Collection\obj\Debug\net9.0\Collection.csproj.CoreCompileInputs.cache
+C:\code\becode\DotNet\firstWeeks\15-csharp-collections-PatoucheH\Collection\obj\Debug\net9.0\Collection.sourcelink.json
+C:\code\becode\DotNet\firstWeeks\15-csharp-collections-PatoucheH\Collection\obj\Debug\net9.0\Collection.dll
+C:\code\becode\DotNet\firstWeeks\15-csharp-collections-PatoucheH\Collection\obj\Debug\net9.0\refint\Collection.dll
+C:\code\becode\DotNet\firstWeeks\15-csharp-collections-PatoucheH\Collection\obj\Debug\net9.0\Collection.pdb
+C:\code\becode\DotNet\firstWeeks\15-csharp-collections-PatoucheH\Collection\obj\Debug\net9.0\Collection.genruntimeconfig.cache
+C:\code\becode\DotNet\firstWeeks\15-csharp-collections-PatoucheH\Collection\obj\Debug\net9.0\ref\Collection.dll

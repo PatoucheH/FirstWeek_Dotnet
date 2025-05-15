@@ -1,0 +1,15 @@
+C:\code\becode\DotNet\firstWeeks\12-csharp-oop-advanced-PatoucheH\3.Advanced_Task_management\AdvancedTask\bin\Debug\net9.0\AdvancedTask.exe
+C:\code\becode\DotNet\firstWeeks\12-csharp-oop-advanced-PatoucheH\3.Advanced_Task_management\AdvancedTask\bin\Debug\net9.0\AdvancedTask.deps.json
+C:\code\becode\DotNet\firstWeeks\12-csharp-oop-advanced-PatoucheH\3.Advanced_Task_management\AdvancedTask\bin\Debug\net9.0\AdvancedTask.runtimeconfig.json
+C:\code\becode\DotNet\firstWeeks\12-csharp-oop-advanced-PatoucheH\3.Advanced_Task_management\AdvancedTask\bin\Debug\net9.0\AdvancedTask.dll
+C:\code\becode\DotNet\firstWeeks\12-csharp-oop-advanced-PatoucheH\3.Advanced_Task_management\AdvancedTask\bin\Debug\net9.0\AdvancedTask.pdb
+C:\code\becode\DotNet\firstWeeks\12-csharp-oop-advanced-PatoucheH\3.Advanced_Task_management\AdvancedTask\obj\Debug\net9.0\AdvancedTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\code\becode\DotNet\firstWeeks\12-csharp-oop-advanced-PatoucheH\3.Advanced_Task_management\AdvancedTask\obj\Debug\net9.0\AdvancedTask.AssemblyInfoInputs.cache
+C:\code\becode\DotNet\firstWeeks\12-csharp-oop-advanced-PatoucheH\3.Advanced_Task_management\AdvancedTask\obj\Debug\net9.0\AdvancedTask.AssemblyInfo.cs
+C:\code\becode\DotNet\firstWeeks\12-csharp-oop-advanced-PatoucheH\3.Advanced_Task_management\AdvancedTask\obj\Debug\net9.0\AdvancedTask.csproj.CoreCompileInputs.cache
+C:\code\becode\DotNet\firstWeeks\12-csharp-oop-advanced-PatoucheH\3.Advanced_Task_management\AdvancedTask\obj\Debug\net9.0\AdvancedTask.sourcelink.json
+C:\code\becode\DotNet\firstWeeks\12-csharp-oop-advanced-PatoucheH\3.Advanced_Task_management\AdvancedTask\obj\Debug\net9.0\AdvancedTask.dll
+C:\code\becode\DotNet\firstWeeks\12-csharp-oop-advanced-PatoucheH\3.Advanced_Task_management\AdvancedTask\obj\Debug\net9.0\refint\AdvancedTask.dll
+C:\code\becode\DotNet\firstWeeks\12-csharp-oop-advanced-PatoucheH\3.Advanced_Task_management\AdvancedTask\obj\Debug\net9.0\AdvancedTask.pdb
+C:\code\becode\DotNet\firstWeeks\12-csharp-oop-advanced-PatoucheH\3.Advanced_Task_management\AdvancedTask\obj\Debug\net9.0\AdvancedTask.genruntimeconfig.cache
+C:\code\becode\DotNet\firstWeeks\12-csharp-oop-advanced-PatoucheH\3.Advanced_Task_management\AdvancedTask\obj\Debug\net9.0\ref\AdvancedTask.dll

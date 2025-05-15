@@ -1,0 +1,15 @@
+C:\code\becode\DotNet\firstWeeks\13-csharp-polymorphism-PatoucheH\Polymorphism\bin\Debug\net9.0\Polymorphism.exe
+C:\code\becode\DotNet\firstWeeks\13-csharp-polymorphism-PatoucheH\Polymorphism\bin\Debug\net9.0\Polymorphism.deps.json
+C:\code\becode\DotNet\firstWeeks\13-csharp-polymorphism-PatoucheH\Polymorphism\bin\Debug\net9.0\Polymorphism.runtimeconfig.json
+C:\code\becode\DotNet\firstWeeks\13-csharp-polymorphism-PatoucheH\Polymorphism\bin\Debug\net9.0\Polymorphism.dll
+C:\code\becode\DotNet\firstWeeks\13-csharp-polymorphism-PatoucheH\Polymorphism\bin\Debug\net9.0\Polymorphism.pdb
+C:\code\becode\DotNet\firstWeeks\13-csharp-polymorphism-PatoucheH\Polymorphism\obj\Debug\net9.0\Polymorphism.GeneratedMSBuildEditorConfig.editorconfig
+C:\code\becode\DotNet\firstWeeks\13-csharp-polymorphism-PatoucheH\Polymorphism\obj\Debug\net9.0\Polymorphism.AssemblyInfoInputs.cache
+C:\code\becode\DotNet\firstWeeks\13-csharp-polymorphism-PatoucheH\Polymorphism\obj\Debug\net9.0\Polymorphism.AssemblyInfo.cs
+C:\code\becode\DotNet\firstWeeks\13-csharp-polymorphism-PatoucheH\Polymorphism\obj\Debug\net9.0\Polymorphism.csproj.CoreCompileInputs.cache
+C:\code\becode\DotNet\firstWeeks\13-csharp-polymorphism-PatoucheH\Polymorphism\obj\Debug\net9.0\Polymorphism.sourcelink.json
+C:\code\becode\DotNet\firstWeeks\13-csharp-polymorphism-PatoucheH\Polymorphism\obj\Debug\net9.0\Polymorphism.dll
+C:\code\becode\DotNet\firstWeeks\13-csharp-polymorphism-PatoucheH\Polymorphism\obj\Debug\net9.0\refint\Polymorphism.dll
+C:\code\becode\DotNet\firstWeeks\13-csharp-polymorphism-PatoucheH\Polymorphism\obj\Debug\net9.0\Polymorphism.pdb
+C:\code\becode\DotNet\firstWeeks\13-csharp-polymorphism-PatoucheH\Polymorphism\obj\Debug\net9.0\Polymorphism.genruntimeconfig.cache
+C:\code\becode\DotNet\firstWeeks\13-csharp-polymorphism-PatoucheH\Polymorphism\obj\Debug\net9.0\ref\Polymorphism.dll
