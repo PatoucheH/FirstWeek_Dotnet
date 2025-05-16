@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\code\\becode\\DotNet\\firstWeeks\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\code\\becode\\DotNet\\firstWeeks\\16-csharp-generics-PatoucheH\\Generics\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:16-csharp-generics-PatoucheH\\Generics\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\code\\becode\\DotNet\\firstWeeks\\16-csharp-generics-PatoucheH\\Generics\\Greeter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:16-csharp-generics-PatoucheH\\Generics\\Greeter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\code\\becode\\DotNet\\firstWeeks\\16-csharp-generics-PatoucheH\\Generics\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:16-csharp-generics-PatoucheH\\Generics\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\code\\becode\\DotNet\\firstWeeks\\16-csharp-generics-PatoucheH\\Generics\\MyList.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -22,11 +22,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Greeter.cs",
               "DocumentMoniker": "C:\\code\\becode\\DotNet\\firstWeeks\\16-csharp-generics-PatoucheH\\Generics\\Greeter.cs",
               "RelativeDocumentMoniker": "16-csharp-generics-PatoucheH\\Generics\\Greeter.cs",
@@ -34,7 +34,8 @@
               "RelativeToolTip": "16-csharp-generics-PatoucheH\\Generics\\Greeter.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-15T10:15:07.616Z"
+              "WhenOpened": "2025-05-15T10:15:07.616Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -50,7 +51,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\code\\becode\\DotNet\\firstWeeks\\16-csharp-generics-PatoucheH\\Generics\\Program.cs",
               "RelativeDocumentMoniker": "16-csharp-generics-PatoucheH\\Generics\\Program.cs",
@@ -58,8 +59,7 @@
               "RelativeToolTip": "16-csharp-generics-PatoucheH\\Generics\\Program.cs",
               "ViewState": "AgIAACEAAAAAAAAAAAAAAC8AAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-15T10:05:23.124Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-15T10:05:23.124Z"
             }
           ]
         }
